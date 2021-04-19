@@ -14,7 +14,7 @@ My estimated monthly cost is $0.57, and [will easily stay in the free tier for t
 
 ### Limitations
 
-If you decide to use this and are not in North America, you'll have to make a couple small changes to accomodate your region. Refer to `price_class` and `restrictions` in `main.tf`, and update accordingly.
+If you decide to use this and are not in North America, you'll have to make a couple small changes to accomodate your region. Refer to `price_class` and `restrictions` in [main.tf](./main.tf) and update accordingly.
 
 ### Getting Started
 
